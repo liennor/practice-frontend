@@ -1,0 +1,36 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color:gray;
+    text-align:center;
+    border: 10px solid green;
+}
+p{
+    font-family: verdana;
+    font-size: 300%;
+    font-weight: bold;
+}
+#click{
+    font-family: verdana;
+    font-size: 30px;
+    font-weight: lighter;
+    text-decoration:none;
+    text-transform: capitalize;
+}
+article h2{
+    font-family:'Times New Roman';
+    font-size: 40px;
+    background-color: beige;
+}
+
+
+article section p{
+    font-size:100%;
+    background-color: rgba(255, 999, 41, 0.7);
+
+}
+article section p#para1{
+    color: #000000;
+}
